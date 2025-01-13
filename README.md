@@ -10,7 +10,7 @@ Key Findings
 
 •	Actionable Recommendations: Provided recommendations to optimize inventory management, marketing strategies, and customer engagement based on the analysis.
 
-Technologies Used
+Technologies Utilized
 
 •	SQL: Used for querying and analyzing the dataset.
 
