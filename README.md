@@ -14,7 +14,7 @@ Technologies Utilized
 
 •	SQL: Used for querying and analyzing the dataset.
 
-•	Excel: Used for data visualization and further analysis.
+•	Excel: Used for data cleaning.
 
 Impact
 
